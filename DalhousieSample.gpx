@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx = "http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+http://www.garmin.com/xmlschemas/GpxExtensions/v3
+http://www8.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd"
+version="1.1"
+creator="gpx-poi.com">
+
+	<metadata>
+  		<name>Dalhousie University</name>
+  		<desc>This is an example .gpx for the studley campus at Dalhousie University, Halifax</desc>
+	</metadata>
+
+	<wpt lat="44.637400" lon="-63.587174">
+		<time>2017-07-13T02:24:00Z</time>
+		<name>Goldberg Computer Science Building</name>
+		<extensions>
+			<gpxx:WaypointExtension>
+				<gpxx:Address>
+					<gpxx:StreetAddress>University Avenue 6050</gpxx:StreetAddress>
+					<gpxx:City>Halifax</gpxx:City>
+					<gpxx:State>NS</gpxx:State>
+					<gpxx:Country>CA</gpxx:Country>
+					<gpxx:PostalCode>B3H 1W5</gpxx:PostalCode>
+				</gpxx:Address>
+			</gpxx:WaypointExtension>
+		</extensions>
+	</wpt>
+
+	<wpt lat="44.637028" lon="-63.588217">
+		<time>2017-07-13T02:24:10Z</time>
+		<name>Kenneth C. Rowe Management Building</name>
+		<extensions>
+			<gpxx:WaypointExtension>
+				<gpxx:Address>
+					<gpxx:StreetAddress>6100 University Avenue</gpxx:StreetAddress>
+					<gpxx:City>Halifax</gpxx:City>
+					<gpxx:State>NS</gpxx:State>
+					<gpxx:Country>CA</gpxx:Country>
+					<gpxx:PostalCode>B3H</gpxx:PostalCode>
+				</gpxx:Address>
+			</gpxx:WaypointExtension>
+		</extensions>
+	</wpt>
+
+	<wpt lat="44.637899" lon="-63.588542">
+		<time>2017-07-13T02:24:20Z</time>
+		<name>Dalhousie Arts Centre</name>
+		<extensions>
+			<gpxx:WaypointExtension>
+				<gpxx:Address>
+					<gpxx:StreetAddress>6101 University Avenue</gpxx:StreetAddress>
+					<gpxx:City>Halifax</gpxx:City>
+					<gpxx:State>NS</gpxx:State>
+					<gpxx:Country>CA</gpxx:Country>
+					<gpxx:PostalCode>B3H 1W8</gpxx:PostalCode>
+				</gpxx:Address>
+			</gpxx:WaypointExtension>
+		</extensions>
+	</wpt>
+
+	<wpt lat="44.637270" lon="-63.591220">
+		<time>2017-07-13T02:24:30Z</time>
+		<name>Killam Library</name>
+		<extensions>
+			<gpxx:WaypointExtension>
+				<gpxx:Address>
+					<gpxx:StreetAddress>6225 University Avenue</gpxx:StreetAddress>
+					<gpxx:City>Halifax</gpxx:City>
+					<gpxx:State>NS</gpxx:State>
+					<gpxx:Country>CA</gpxx:Country>
+					<gpxx:PostalCode>B3H 3P8</gpxx:PostalCode>
+				</gpxx:Address>
+			</gpxx:WaypointExtension>
+		</extensions>
+	</wpt>
+
+	<wpt lat="44.635613" lon="-63.594433">
+		<time>2017-07-13T02:24:40Z</time>
+		<name>LSC</name>
+		<extensions>
+			<gpxx:WaypointExtension>
+				<gpxx:Address>
+					<gpxx:StreetAddress>Oxford Street 1355</gpxx:StreetAddress>
+					<gpxx:City>Halifax</gpxx:City>
+					<gpxx:State>NS</gpxx:State>
+					<gpxx:Country>CA</gpxx:Country>
+					<gpxx:PostalCode>B3H 4J1</gpxx:PostalCode>
+				</gpxx:Address>
+			</gpxx:WaypointExtension>
+		</extensions>
+	</wpt>
+
+</gpx>
